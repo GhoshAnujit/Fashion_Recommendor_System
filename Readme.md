@@ -22,7 +22,7 @@ To install the Fashion Recommender System, follow these steps:
 
 Clone the repository:
 
-git clone https://github.com/<username>/<repository>.git
+git clone (https://github.com/GhoshAnujit/Fashion_Recommendor_System.git)
 
 Install the required packages:
 
@@ -36,7 +36,7 @@ Usage:
 
 To use the Fashion Recommender System, run the Streamlit app:
 
-streamlit run app.py
+streamlit run main.py
 
 The app will open in your browser at http://localhost:8501.
 
